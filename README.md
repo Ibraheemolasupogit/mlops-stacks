@@ -8,7 +8,7 @@ on Databricks that follow production best-practices out of the box.
 Using Databricks MLOps Stacks, data scientists can quickly get started iterating on ML code for new projects while ops engineers set up CI/CD and ML resources
 management, with an easy transition to production. You can also use MLOps Stacks as a building block in automation for creating new data science projects with production-grade CI/CD pre-configured. More information can be found at https://docs.databricks.com/en/dev-tools/bundles/mlops-stacks.html.
 
-The default stack in this repo includes three modular components: 
+The default stack in this repo includes three modular components:  
 
 | Component                   | Description                                                                                                                                                           | Why it's useful                                                                                                                                                                         |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
